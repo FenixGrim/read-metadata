@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Alice&display=swap");
+
+.navbar-toggler:hover {
+  background-color: white;
+  transition: 3s;
+}
+
+nav {
+  a {
+    padding-right: 15px;
+    padding-bottom: 5px;
+    font-family: "Alice", serif;
+    font-size: 1.3rem;
+  }
+}
+a:hover {
+  text-shadow: 17px 17px 60px #ffffff !important;
+  transition: 1s;
+}
+.login-logout{
+  padding-bottom: 5px;
+}
+.me-auto{
+  a{margin-left: 2%;}
+}

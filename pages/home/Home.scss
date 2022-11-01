@@ -1,0 +1,30 @@
+.main {
+  height: 50vh;
+  .react-typewriter-text {
+    text-align: center !important;
+    margin-top: 40vh !important;
+    text-shadow: 2px 2px 60px #0079f2 !important;
+  }
+}
+nav {
+  border-bottom-left-radius: 40px;
+  border-bottom-right-radius: 40px;
+  background-color: #0e1525 !important;
+  border-bottom-left-radius: 40px;
+  border-bottom-right-radius: 40px;
+  * {
+    color: white !important;
+    font-size: large;
+  }
+  z-index: 25;
+}
+.main-text {
+  position: absolute; /* 2 */
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.Toastify__toast-body{
+*{
+  color: #0e1525!important;
+}
+}
